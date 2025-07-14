@@ -1,6 +1,6 @@
 let cache = null;
 let itensFiltrados = [];
-let paginaAtual = 10;
+let paginaAtual = 2;
 const itensPorPagina = 500;
 let favoritos = [];
 try {

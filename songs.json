@@ -750,6 +750,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Ana Laura Lopes",
+        "numero": 77339,
+        "musica": "Meu Endereço",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Ana Nóbrega",
         "numero": 50290,
         "musica": "Não Me Deixes Desistir",
@@ -1434,6 +1440,36 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Banda Khorus",
+        "numero": 77480,
+        "musica": "A Voz Do Brasil",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Banda Khorus",
+        "numero": 77481,
+        "musica": "O Plano",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Banda Khorus",
+        "numero": 77482,
+        "musica": "O Que A Fé Pode Fazer",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Banda Khorus",
+        "numero": 77483,
+        "musica": "Sonho",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Banda Khorus",
+        "numero": 77484,
+        "musica": "Vida Plena",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Banda Rara Gospel",
         "numero": 5520,
         "musica": "Deixa Tudo",
@@ -2040,6 +2076,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Catedral",
+        "numero": 77485,
+        "musica": "A Resposta De Um Desejo",
+        "genero": "Rock Cristão"
+    },
+    {
         "cantor": "Cecília Kizie",
         "numero": 74465,
         "musica": "Sou Um Milagre",
@@ -2181,6 +2223,12 @@
         "cantor": "Clamor Pelas Nações (Ricardo Robortella)",
         "numero": 7861,
         "musica": "Quando Sinto Teu Toque - Gospel",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Claudia Canção",
+        "numero": 77347,
+        "musica": "O Exilado",
         "genero": "Gospel"
     },
     {
@@ -2820,6 +2868,18 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Devid Quinlan",
+        "numero": 77489,
+        "musica": "Abraça-Me (Quero Ser Como Crianca)",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Diacono Nelsinho Correia",
+        "numero": 77490,
+        "musica": "Sacramento Da Comunhão",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Diante Do Trono",
         "numero": 2404,
         "musica": "Ainda Existe Uma Cruz - Gospel",
@@ -3048,6 +3108,24 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Discopraise",
+        "numero": 77491,
+        "musica": "Bem Querer",
+        "genero": "Gospel / Pop Rock"
+    },
+    {
+        "cantor": "Discopraise",
+        "numero": 77492,
+        "musica": "No Arraial Dos Santos",
+        "genero": "Gospel / Pop Rock"
+    },
+    {
+        "cantor": "Discopraiser",
+        "numero": 77493,
+        "musica": "Se Eu Me Humilhar",
+        "genero": "Gospel / Pop Rock"
+    },
+    {
         "cantor": "Dunamis Sounds",
         "numero": 72260,
         "musica": "Volto Os Meus Olhos + Vem Derrama",
@@ -3138,6 +3216,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Eliane Fernandes",
+        "numero": 77356,
+        "musica": "Nunca Foi Sorte",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Eliete Mota",
         "numero": 76985,
         "musica": "O Vaso",
@@ -3153,6 +3237,12 @@
         "cantor": "Elvis And Friends Gospel",
         "numero": 73350,
         "musica": "He Looked Beyond My Fault",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Elyssa Gomes",
+        "numero": 77495,
+        "musica": "Sei Que Posso Voar",
         "genero": "Gospel"
     },
     {
@@ -3183,6 +3273,12 @@
         "cantor": "Eunice Ferreira",
         "numero": 74569,
         "musica": "Confia Mais",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Evoney Fernandes",
+        "numero": 77360,
+        "musica": "Seresteiro Seu Osmar",
         "genero": "Gospel"
     },
     {
@@ -3340,6 +3436,18 @@
         "numero": 6457,
         "musica": "Esperança",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Felipe Rodrigues",
+        "numero": 77496,
+        "musica": "Tudo É Perda",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Fernadinho",
+        "numero": 77497,
+        "musica": "Santo Pra Sempre",
+        "genero": "Gospel / Rock"
     },
     {
         "cantor": "Fernanda Brum",
@@ -4068,6 +4176,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Gerson Rufino",
+        "numero": 77365,
+        "musica": "A Arte Da Guerra",
+        "genero": "Gospel pentecostal"
+    },
+    {
         "cantor": "Gérson Rufino",
         "numero": 72303,
         "musica": "O Cego - Gospel",
@@ -4311,6 +4425,12 @@
         "cantor": "Grupo Logos",
         "numero": 74476,
         "musica": "Meu Servo Não Temas",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Guilherme Silva",
+        "numero": 77500,
+        "musica": "Será Onde Ela Anda",
         "genero": "Gospel"
     },
     {
@@ -5028,6 +5148,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Kemilly Santos",
+        "numero": 77507,
+        "musica": "Deus De Obras Completas",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Kiara Vitória",
         "numero": 74487,
         "musica": "Despreocupa",
@@ -5568,6 +5694,48 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Marcela Jardim",
+        "numero": 77392,
+        "musica": "Mãe",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Marcela Jardim",
+        "numero": 77393,
+        "musica": "Barbie",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Marcela Jardim",
+        "numero": 77394,
+        "musica": "Talento",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Marcela Jardim",
+        "numero": 77395,
+        "musica": "Toda Blogueirinha",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Marcela Jardim",
+        "numero": 77396,
+        "musica": "Tum Tum Pá",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Marcela Jardim E Bruninho",
+        "numero": 77397,
+        "musica": "Filme De Amor",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Mari Borges",
+        "numero": 77514,
+        "musica": "Tá Chorando Por Que",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Maria Marcal",
         "numero": 76606,
         "musica": "Deus Fiel",
@@ -5618,6 +5786,12 @@
     {
         "cantor": "Maria Marçal",
         "numero": 76289,
+        "musica": "Deixa",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Maria Marçal",
+        "numero": 77515,
         "musica": "Deixa",
         "genero": "Gospel"
     },
@@ -5955,6 +6129,12 @@
         "cantor": "Nani Azevedo",
         "numero": 74893,
         "musica": "Os Sonhos De Deus - Gospel",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Nathália Braga",
+        "numero": 77516,
+        "musica": "Deus Está Te Ensinando",
         "genero": "Gospel"
     },
     {
@@ -7750,6 +7930,12 @@
         "numero": 15836,
         "musica": "Quero Sua Vida Em Mim - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Thamires Garcia",
+        "numero": 77422,
+        "musica": "O Senhor E Não Os Ídolos",
+        "genero": "Pop cristão, Gospel"
     },
     {
         "cantor": "The Cathedrals",

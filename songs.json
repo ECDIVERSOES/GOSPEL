@@ -42,6 +42,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Adhemar De Campos",
+        "numero": 77628,
+        "musica": "Eli Soaresgrande É O Senhor",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Adoração E Adoradores  Gospel",
         "numero": 7782,
         "musica": "Faz Chover",
@@ -1074,6 +1080,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "André Leono",
+        "numero": 77636,
+        "musica": "Eu Queria Um Amor",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Andre Valadão",
         "numero": 50317,
         "musica": "Cantigo Novo",
@@ -1242,6 +1254,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "ANJOS DE RESGATE",
+        "numero": 13295,
+        "musica": "Tua Família",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Anjos De Resgate Gospel",
         "numero": 7746,
         "musica": "Amigos Pela Fé",
@@ -1360,6 +1378,12 @@
         "numero": 50408,
         "musica": "Deserto",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Ariely Bonatti",
+        "numero": 77637,
+        "musica": "Quero Almas",
+        "genero": "gospel"
     },
     {
         "cantor": "Asaph Borba Gospel",
@@ -1834,6 +1858,24 @@
         "numero": 7869,
         "musica": "Santo É O Teu Nome",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Casa Worship",
+        "numero": 77533,
+        "musica": "Era Eu",
+        "genero": "gospel"
+    },
+    {
+        "cantor": "Casa Worship",
+        "numero": 77534,
+        "musica": "Lenha E Fogo",
+        "genero": "gospel"
+    },
+    {
+        "cantor": "Casa Worship",
+        "numero": 77535,
+        "musica": "Vento Impetuoso",
+        "genero": "gospel"
     },
     {
         "cantor": "Casa Worship Gospel",
@@ -2526,6 +2568,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Cristina Mel",
+        "numero": 51239,
+        "musica": "Vem Com Peso Da Tua Glória",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Damares",
         "numero": 2419,
         "musica": "É A Sua Vez - Gospel",
@@ -2740,6 +2788,12 @@
         "numero": 74471,
         "musica": "Ele É Deus - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Davi Kaleb E Josh",
+        "numero": 77661,
+        "musica": "Até Que O Senhor Venha",
+        "genero": "gospel infantil"
     },
     {
         "cantor": "Davi Sacer",
@@ -3184,6 +3238,12 @@
         "numero": 76226,
         "musica": "Se Eu Cair - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Eli Soares",
+        "numero": 77667,
+        "musica": "Os Anjos Te Louvam",
+        "genero": "gospel"
     },
     {
         "cantor": "Eli Soares E Isadora Pompeo",
@@ -3816,10 +3876,28 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Fernandinho",
+        "numero": 77675,
+        "musica": "Pra Sempre",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Fhop Music",
         "numero": 77296,
         "musica": "Tu És Águas Purificadoras",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Fhop Music E Marco Telles",
+        "numero": 77676,
+        "musica": "Colossenses E Suas Linhas De Amor",
+        "genero": "gospel"
+    },
+    {
+        "cantor": "Fhop Music E Marco Telles",
+        "numero": 77677,
+        "musica": "Único",
+        "genero": "gospel"
     },
     {
         "cantor": "Filhos Do Homem",
@@ -4722,6 +4800,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Isaias Saad Nívea Soares",
+        "numero": 77693,
+        "musica": "Ruja O Leão Que Se Abram Os Céus",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Izaas Mendes",
         "numero": 56926,
         "musica": "Sacrifício A Ele",
@@ -5028,6 +5112,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Julliany Souza",
+        "numero": 77706,
+        "musica": "Quem É Esse",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Kadoshi",
         "numero": 5507,
         "musica": "Agradecimento - Gospel",
@@ -5142,6 +5232,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Kellen Byanca",
+        "numero": 77707,
+        "musica": "Dono Da Promessa",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Kellyn Byanca",
         "numero": 73262,
         "musica": "Pode Dormir Tranquilo - Gospel",
@@ -5158,6 +5254,12 @@
         "numero": 77507,
         "musica": "Deus De Obras Completas",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Kemuel Lukas Agustinho",
+        "numero": 77708,
+        "musica": "Algo",
+        "genero": "gospel"
     },
     {
         "cantor": "Kiara Vitória",
@@ -5736,6 +5838,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Marcelo Markes E Isadora Pompeo",
+        "numero": 77712,
+        "musica": "Eu Tenho Você",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Mari Borges",
         "numero": 77514,
         "musica": "Tá Chorando Por Que",
@@ -5952,6 +6060,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Mattos Nascimento",
+        "numero": 77553,
+        "musica": "Sonho De José",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Messias",
         "numero": 74793,
         "musica": "Paraguai Reluminar",
@@ -6094,6 +6208,12 @@
         "numero": 76295,
         "musica": "É Tudo Sobre Você - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Morada",
+        "numero": 77715,
+        "musica": "Ó Tu És Santo",
+        "genero": "gospel"
     },
     {
         "cantor": "Nani Azevedo",
@@ -6724,6 +6844,12 @@
         "numero": 73285,
         "musica": "Há Poder - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Paulo Cesar Baruk Marsena",
+        "numero": 77719,
+        "musica": "Clamo Jesus",
+        "genero": "gospel"
     },
     {
         "cantor": "Paulo Neto",
@@ -7380,6 +7506,18 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Robinson Monteiro",
+        "numero": 77566,
+        "musica": "E Preciso Acreditar",
+        "genero": "gospel"
+    },
+    {
+        "cantor": "Robinson Monteiro E Adriana",
+        "numero": 77567,
+        "musica": "Viver É Ter Você Pra Mim",
+        "genero": "gospel"
+    },
+    {
         "cantor": "Rodolfo Abrantes",
         "numero": 72455,
         "musica": "Isaías 9 - Gospel",
@@ -7726,6 +7864,12 @@
         "numero": 76312,
         "musica": "Só Quem Tem Raiz - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Sarah Farias",
+        "numero": 77724,
+        "musica": "Se Eu Não Te Ouvir",
+        "genero": "gospel"
     },
     {
         "cantor": "Sergio Saas",
@@ -8518,6 +8662,12 @@
         "numero": 67796,
         "musica": "Sou Um Milagre - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Voz Da Verdade",
+        "numero": 77725,
+        "musica": "Alem Do Rio Azul",
+        "genero": "gospel"
     },
     {
         "cantor": "West Ebd",

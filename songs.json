@@ -6018,6 +6018,48 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Mara Maravilha",
+        "numero": 77757,
+        "musica": "Fica Comigo",
+        "genero": "Gospel infantil"
+    },
+    {
+        "cantor": "Mara Maravilha",
+        "numero": 77758,
+        "musica": "Não Tem Jeito",
+        "genero": "Gospel infantil"
+    },
+    {
+        "cantor": "Mara Maravilha",
+        "numero": 77759,
+        "musica": "Sou Toda Você",
+        "genero": "Gospel infantil"
+    },
+    {
+        "cantor": "Mara Maravilha",
+        "numero": 77817,
+        "musica": "A Gente Sempre Vai Se Amar",
+        "genero": "Gospel infantil"
+    },
+    {
+        "cantor": "Mara Maravilha",
+        "numero": 77818,
+        "musica": "Fica Comigo",
+        "genero": "Gospel infantil"
+    },
+    {
+        "cantor": "Mara Maravilha",
+        "numero": 77819,
+        "musica": "Liga Pra Mim",
+        "genero": "Gospel infantil"
+    },
+    {
+        "cantor": "Mara Maravilha",
+        "numero": 77820,
+        "musica": "Vivendo E Aprendendo",
+        "genero": "Gospel infantil"
+    },
+    {
         "cantor": "Mara Maravilha-Ludmila Ferber",
         "numero": 7888,
         "musica": "Vou Continuar - Gospel",
@@ -6484,6 +6526,12 @@
         "numero": 77715,
         "musica": "Ó Tu És Santo",
         "genero": "gospel"
+    },
+    {
+        "cantor": "Musical Jm",
+        "numero": 77762,
+        "musica": "O Último Baile",
+        "genero": "Gospel"
     },
     {
         "cantor": "Nani Azevedo",
@@ -7035,6 +7083,12 @@
         "cantor": "Pâmela",
         "numero": 58290,
         "musica": "Desde O Primeiro Momento - Gospel",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Paula Stephânia",
+        "numero": 77767,
+        "musica": "Quadro Falado",
         "genero": "Gospel"
     },
     {
@@ -8812,6 +8866,12 @@
         "numero": 12134,
         "musica": "DIAS DE GUERRA",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Vida Reluz",
+        "numero": 77827,
+        "musica": "Como És Lindo",
+        "genero": "Gospel católico"
     },
     {
         "cantor": "Vineyard",

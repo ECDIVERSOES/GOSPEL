@@ -66,15 +66,15 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Adriana Marques  Gospel",
-        "numero": 2408,
-        "musica": "Amor Perfeito",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Adrielle Lopes",
         "numero": 77277,
         "musica": "Exaltado",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Água Cristalina",
+        "numero": 77877,
+        "musica": "No Balanço Do Água",
         "genero": "Gospel"
     },
     {
@@ -582,18 +582,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Alisson E Neide Gospel",
-        "numero": 72193,
-        "musica": "Sinceridade",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Alisson E Neide Gospel",
-        "numero": 73175,
-        "musica": "Mostra-Me Tua Gloria",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Amanda Ferrari",
         "numero": 76929,
         "musica": "Diante De Deus",
@@ -798,12 +786,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Ana Nóbrega",
-        "numero": 50290,
-        "musica": "Não Me Deixes Desistir",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "ANA NÓBREGA",
         "numero": 12011,
         "musica": "Oceanos",
@@ -813,6 +795,12 @@
         "cantor": "ANA NÓBREGA",
         "numero": 12012,
         "musica": "Oh, quão lindo esse nome é",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Ana Nóbrega",
+        "numero": 50290,
+        "musica": "Não Me Deixes Desistir",
         "genero": "Gospel"
     },
     {
@@ -867,12 +855,6 @@
         "cantor": "Ana Paula Valadão Gospel",
         "numero": 7855,
         "musica": "Poder Do Teu Amor",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Anderson Barony Gospel",
-        "numero": 66136,
-        "musica": "Barrabás",
         "genero": "Gospel"
     },
     {
@@ -1047,12 +1029,6 @@
         "cantor": "Anderson Freire-Bruna Karla Gospel",
         "numero": 2456,
         "musica": "Identidade",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "André Aquino Gospel",
-        "numero": 72196,
-        "musica": "Quando Ele Vem",
         "genero": "Gospel"
     },
     {
@@ -1398,24 +1374,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Ao Cubo Gospel",
-        "numero": 50390,
-        "musica": "Filhos",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Ao Cubo Gospel",
-        "numero": 50391,
-        "musica": "Naquela Sala",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Ao Cubo Gospel",
-        "numero": 50392,
-        "musica": "É Proibido Chorar",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Apocalipse 16 Gospel",
         "numero": 2498,
         "musica": "Salmos 23 E 91",
@@ -1425,12 +1383,6 @@
         "cantor": "Arautos Do Rei",
         "numero": 76563,
         "musica": "O Céu É Jesus",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Arianne E Priscilla Alcantara Gospel",
-        "numero": 66180,
-        "musica": "Primeiro Amor (Quero Voltar)",
         "genero": "Gospel"
     },
     {
@@ -2196,12 +2148,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Catedral",
-        "numero": 77485,
-        "musica": "A Resposta De Um Desejo",
-        "genero": "Rock Cristão"
-    },
-    {
         "cantor": "Cecília Kizie",
         "numero": 74465,
         "musica": "Sou Um Milagre",
@@ -2340,45 +2286,9 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Clamor Pelas Nações (Ricardo Robortella)",
-        "numero": 7861,
-        "musica": "Quando Sinto Teu Toque - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Claudia Canção",
         "numero": 77347,
         "musica": "O Exilado",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Clayton Queiroz",
-        "numero": 74466,
-        "musica": "Deus Está Me Vendo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Clebiane",
-        "numero": 74832,
-        "musica": "Deus Esta Aqui - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Colo De Deus",
-        "numero": 76218,
-        "musica": "Eis-Me Aqui - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Colo De Deus",
-        "numero": 76219,
-        "musica": "Refrigera Minha Alma - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Colo De Deus",
-        "numero": 76220,
-        "musica": "Yeshua - Gospel",
         "genero": "Gospel"
     },
     {
@@ -2604,6 +2514,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "CRISTINA MEL",
+        "numero": 12090,
+        "musica": "Ao Amigo Distante",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Cristina Mel",
         "numero": 51231,
         "musica": "Fé Em Deus - Gospel",
@@ -2641,92 +2557,14 @@
     },
     {
         "cantor": "Cristina Mel",
-        "numero": 74566,
-        "musica": "Vem Com Peso Da Tua Glória - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Cristina Mel",
         "numero": 51239,
         "musica": "Vem Com Peso Da Tua Glória",
         "genero": "Gospel"
     },
     {
-        "cantor": "CRISTINA MEL",
-        "numero": 12090,
-        "musica": "Ao Amigo Distante",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 2419,
-        "musica": "É A Sua Vez - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 2433,
-        "musica": "Sabor De Mel - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 2442,
-        "musica": "A Batalha Do Arcanjo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 2443,
-        "musica": "Adore A Ele - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 51246,
-        "musica": "Consolador - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 51247,
-        "musica": "Na Mesa Do Rei - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 51250,
-        "musica": "Um Novo Vencedor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 55937,
-        "musica": "A Dracma E O Seu Dono - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 55938,
-        "musica": "Batalha Do Arcanjo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 55941,
-        "musica": "O Meu Maior Trofeu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 66630,
-        "musica": "Apocalipse - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Damares",
-        "numero": 74469,
-        "musica": "Com Glória - Gospel",
+        "cantor": "Cristina Mel",
+        "numero": 74566,
+        "musica": "Vem Com Peso Da Tua Glória - Gospel",
         "genero": "Gospel"
     },
     {
@@ -2943,72 +2781,6 @@
         "cantor": "Davi Sacer",
         "numero": 76223,
         "musica": "Tua Graça Me Basta - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 2412,
-        "musica": "Cantarei Do Teu Amor Pra Sempre - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 2486,
-        "musica": "Ele Vem - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 2493,
-        "musica": "Não Há Ninguém Como Tu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 7734,
-        "musica": "Abra Os Olhos Do Meu Coração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 7735,
-        "musica": "Acende O Fogo Em Mim - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 7740,
-        "musica": "Águas Profundas - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 7772,
-        "musica": "É Assim Que Nós Vencemos - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 7779,
-        "musica": "Essência Da Adoração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David M.Quinlan",
-        "numero": 7785,
-        "musica": "Geração Que Dança - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David Quinlan",
-        "numero": 51304,
-        "musica": "Abraça Me - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "David Quinlan",
-        "numero": 51305,
-        "musica": "Poderoso Deus - Gospel",
         "genero": "Gospel"
     },
     {
@@ -3342,6 +3114,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Eliã Oliveira",
+        "numero": 77357,
+        "musica": "Dna De Adorador",
+        "genero": "Gospel pentecostal"
+    },
+    {
         "cantor": "Eliã Santos",
         "numero": 76986,
         "musica": "Até O Fim",
@@ -3480,6 +3258,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "EYSHILA",
+        "numero": 12033,
+        "musica": "Deus proverá",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Eyshila",
         "numero": 51574,
         "musica": "Deus Proverá - Gospel",
@@ -3543,12 +3327,6 @@
         "cantor": "Eyshila",
         "numero": 74836,
         "musica": "Não Temerei - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "EYSHILA",
-        "numero": 12033,
-        "musica": "Deus proverá",
         "genero": "Gospel"
     },
     {
@@ -3690,6 +3468,18 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "FERNANDA BRUM",
+        "numero": 12002,
+        "musica": "O que tua gloria fez comigo",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "FERNANDA BRUM",
+        "numero": 12007,
+        "musica": "Em tua presença",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Fernanda Brum",
         "numero": 51654,
         "musica": "A Gloria Do Pai - Gospel",
@@ -3801,18 +3591,6 @@
         "cantor": "Fernanda Brum",
         "numero": 76997,
         "musica": "Yeshua",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "FERNANDA BRUM",
-        "numero": 12002,
-        "musica": "O que tua gloria fez comigo",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "FERNANDA BRUM",
-        "numero": 12007,
-        "musica": "Em tua presença",
         "genero": "Gospel"
     },
     {
@@ -3954,6 +3732,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "FERNANDINHO",
+        "numero": 12093,
+        "musica": "Caia Fogo Do Céu",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Fernandinho",
         "numero": 51667,
         "musica": "Caia Fogo - Gospel",
@@ -3996,12 +3780,6 @@
         "genero": "gospel"
     },
     {
-        "cantor": "FERNANDINHO",
-        "numero": 12093,
-        "musica": "Caia Fogo Do Céu",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Fhop Music",
         "numero": 77296,
         "musica": "Tu És Águas Purificadoras",
@@ -4018,6 +3796,12 @@
         "numero": 77677,
         "musica": "Único",
         "genero": "gospel"
+    },
+    {
+        "cantor": "Fhop Music E Nívea Soares",
+        "numero": 77845,
+        "musica": "A Boa Parte",
+        "genero": "Gospel"
     },
     {
         "cantor": "Filhos Do Homem",
@@ -4053,12 +3837,6 @@
         "cantor": "Flordelis",
         "numero": 56422,
         "musica": "A Volta Por Cima - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Fogo E Glória (David Quinlan)",
-        "numero": 7774,
-        "musica": "Enche Este Lugar - Gospel",
         "genero": "Gospel"
     },
     {
@@ -4176,15 +3954,45 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "GABRIELA GOMES",
+        "numero": 12019,
+        "musica": "Deus proverá",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Gabriela Gomes",
         "numero": 77300,
         "musica": "Deus Proverá",
         "genero": "Gospel"
     },
     {
-        "cantor": "GABRIELA GOMES",
-        "numero": 12019,
-        "musica": "Deus proverá",
+        "cantor": "GABRIELA ROCHA",
+        "numero": 12006,
+        "musica": "Lugar secreto",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "GABRIELA ROCHA",
+        "numero": 12014,
+        "musica": "Aleluia -",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "GABRIELA ROCHA",
+        "numero": 12018,
+        "musica": "Diz (you say)",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "GABRIELA ROCHA",
+        "numero": 12111,
+        "musica": "GRATIDÃO",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Gabriela Rocha",
+        "numero": 17952,
+        "musica": "LUGAR SECRETO",
         "genero": "Gospel"
     },
     {
@@ -4329,36 +4137,6 @@
         "cantor": "Gabriela Rocha",
         "numero": 77001,
         "musica": "És O Amor",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Gabriela Rocha",
-        "numero": 17952,
-        "musica": "LUGAR SECRETO",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "GABRIELA ROCHA",
-        "numero": 12006,
-        "musica": "Lugar secreto",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "GABRIELA ROCHA",
-        "numero": 12014,
-        "musica": "Aleluia -",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "GABRIELA ROCHA",
-        "numero": 12018,
-        "musica": "Diz (you say)",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "GABRIELA ROCHA",
-        "numero": 12111,
-        "musica": "GRATIDÃO",
         "genero": "Gospel"
     },
     {
@@ -4701,6 +4479,12 @@
         "cantor": "Harpa Cristã",
         "numero": 77009,
         "musica": "A Alma Abatida",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Harpa Cristã",
+        "numero": 77809,
+        "musica": "Porque Ele Vive",
         "genero": "Gospel"
     },
     {
@@ -5502,6 +5286,18 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "KLEBER LUCAS",
+        "numero": 12032,
+        "musica": "Não posso te deixar",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "KLEBER LUCAS",
+        "numero": 12038,
+        "musica": "Pra valer a pena",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Kleber Lucas",
         "numero": 52634,
         "musica": "Adore - Gospel",
@@ -5541,18 +5337,6 @@
         "cantor": "Kleber Lucas",
         "numero": 67125,
         "musica": "Adore - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "KLEBER LUCAS",
-        "numero": 12032,
-        "musica": "Não posso te deixar",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "KLEBER LUCAS",
-        "numero": 12038,
-        "musica": "Pra valer a pena",
         "genero": "Gospel"
     },
     {
@@ -5610,60 +5394,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Lazaro",
-        "numero": 57283,
-        "musica": "Eu Sou De Jesus - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Lazaro",
-        "numero": 57284,
-        "musica": "Eu Te Amo Tanto - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Lázaro",
-        "numero": 2951,
-        "musica": "Eu Te Amo Tanto - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Lázaro",
-        "numero": 2956,
-        "musica": "Passando Pela Prova - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Lázaro",
-        "numero": 2983,
-        "musica": "Meu Mestre - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Lázaro",
-        "numero": 73269,
-        "musica": "Deus Vai Fazer - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Leandro Borges",
-        "numero": 72352,
-        "musica": "Deus E Eu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Leandro Borges",
-        "numero": 72353,
-        "musica": "Sempre Esteve Aqui - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Leandro Borges",
-        "numero": 74488,
-        "musica": "Abre As Águas - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "LEANDRO BORGES",
         "numero": 12016,
         "musica": "Deus e eu",
@@ -5688,9 +5418,21 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Leila Francieli",
-        "numero": 73264,
-        "musica": "Alfa E Omega - Gospel",
+        "cantor": "Leandro Borges",
+        "numero": 72352,
+        "musica": "Deus E Eu - Gospel",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Leandro Borges",
+        "numero": 72353,
+        "musica": "Sempre Esteve Aqui - Gospel",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "Leandro Borges",
+        "numero": 74488,
+        "musica": "Abre As Águas - Gospel",
         "genero": "Gospel"
     },
     {
@@ -5850,18 +5592,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Luciano Claw",
-        "numero": 73266,
-        "musica": "Toma O Meu Coração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Lucyana Villar Jads Jadson",
-        "numero": 73267,
-        "musica": "Além Do Céu - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Ludmila Ferber",
         "numero": 2494,
         "musica": "Os Sonhos De Deus - Gospel",
@@ -5959,66 +5689,6 @@
     },
     {
         "cantor": "Mara Maravilha",
-        "numero": 1509,
-        "musica": "Não Faz Mal",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 3709,
-        "musica": "Jesus Cristo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 5635,
-        "musica": "Rei Davi - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 7763,
-        "musica": "Deus De Maravilhas - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 15289,
-        "musica": "Curumim Iê Iê - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 57632,
-        "musica": "Amor Perfeito - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 76602,
-        "musica": "Coração Ocupado - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 76603,
-        "musica": "Meu Refúgio - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 76604,
-        "musica": "Receba - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
-        "numero": 76605,
-        "musica": "Vou Conseguir - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Mara Maravilha",
         "numero": 77757,
         "musica": "Fica Comigo",
         "genero": "Gospel infantil"
@@ -6058,12 +5728,6 @@
         "numero": 77820,
         "musica": "Vivendo E Aprendendo",
         "genero": "Gospel infantil"
-    },
-    {
-        "cantor": "Mara Maravilha-Ludmila Ferber",
-        "numero": 7888,
-        "musica": "Vou Continuar - Gospel",
-        "genero": "Gospel"
     },
     {
         "cantor": "Marcela Jardim",
@@ -6108,45 +5772,15 @@
         "genero": "gospel"
     },
     {
+        "cantor": "Marcia Ferreira",
+        "numero": 77854,
+        "musica": "Você Ganhou De Mim",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Mari Borges",
         "numero": 77514,
         "musica": "Tá Chorando Por Que",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marcal",
-        "numero": 76606,
-        "musica": "Deus Fiel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marcal",
-        "numero": 76607,
-        "musica": "Então Profetiza",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marcal",
-        "numero": 76608,
-        "musica": "Eu Sei Que Não Estou Só",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marcal",
-        "numero": 76609,
-        "musica": "Infinito",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marcal",
-        "numero": 76610,
-        "musica": "Meu Filho Descansa",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marcal",
-        "numero": 76611,
-        "musica": "Uma Coisa Nova",
         "genero": "Gospel"
     },
     {
@@ -6157,14 +5791,8 @@
     },
     {
         "cantor": "Maria Marçal",
-        "numero": 75300,
-        "musica": "Deserto",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Maria Marçal",
-        "numero": 76289,
-        "musica": "Deixa",
+        "numero": 77821,
+        "musica": "Não Tem Como Dar Errado",
         "genero": "Gospel"
     },
     {
@@ -6264,24 +5892,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Marie Osmond",
-        "numero": 4600,
-        "musica": "Paper Roses - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Marquinhos Gomes",
-        "numero": 53096,
-        "musica": "Ele Não Desiste De Você - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Marquinhos Gomes",
-        "numero": 53097,
-        "musica": "Não Morrerei - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "MARQUINHOS GOMES",
         "numero": 12028,
         "musica": "Nasci para vencer",
@@ -6378,6 +5988,18 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "MIDIAN LIMA",
+        "numero": 12034,
+        "musica": "Jó",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "MIDIAN LIMA",
+        "numero": 12036,
+        "musica": "Não pare",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Midian Lima",
         "numero": 57880,
         "musica": "Jó - Gospel",
@@ -6393,18 +6015,6 @@
         "cantor": "Midian Lima",
         "numero": 73273,
         "musica": "Não Pare - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "MIDIAN LIMA",
-        "numero": 12034,
-        "musica": "Jó",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "MIDIAN LIMA",
-        "numero": 12036,
-        "musica": "Não pare",
         "genero": "Gospel"
     },
     {
@@ -6462,6 +6072,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "MINISTÉRIO ZOE",
+        "numero": 12004,
+        "musica": "Aquieta minh'alma",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Ministério Zoe",
         "numero": 53285,
         "musica": "Aquieta Minha Alma - Gospel",
@@ -6477,12 +6093,6 @@
         "cantor": "Ministério Zoe",
         "numero": 53287,
         "musica": "Você Me Leva Ao Deserto - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "MINISTÉRIO ZOE",
-        "numero": 12004,
-        "musica": "Aquieta minh'alma",
         "genero": "Gospel"
     },
     {
@@ -6505,24 +6115,6 @@
     },
     {
         "cantor": "Morada",
-        "numero": 67436,
-        "musica": "Pra Onde Eu Irei - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Morada",
-        "numero": 72426,
-        "musica": "Uma Coisa - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Morada",
-        "numero": 76295,
-        "musica": "É Tudo Sobre Você - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Morada",
         "numero": 77715,
         "musica": "Ó Tu És Santo",
         "genero": "gospel"
@@ -6534,45 +6126,9 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Nani Azevedo",
-        "numero": 2963,
-        "musica": "Adorador Por Excelência - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nani Azevedo",
-        "numero": 2970,
-        "musica": "Bendito Serei - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nani Azevedo",
-        "numero": 2976,
-        "musica": "Deus É Fiel - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nani Azevedo",
-        "numero": 2977,
-        "musica": "Espírito De Adorador - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nani Azevedo",
-        "numero": 74891,
-        "musica": "Adorador Por Excelência - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nani Azevedo",
-        "numero": 74892,
-        "musica": "Levanta Geração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nani Azevedo",
-        "numero": 74893,
-        "musica": "Os Sonhos De Deus - Gospel",
+        "cantor": "NATHÁLIA BRAGA",
+        "numero": 12132,
+        "musica": "DEUS ESTÁ TE ENSINANDO",
         "genero": "Gospel"
     },
     {
@@ -6582,93 +6138,9 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "NATHÁLIA BRAGA",
-        "numero": 12132,
-        "musica": "DEUS ESTÁ TE ENSINANDO",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "NATHALIE KOLEEN",
         "numero": 12022,
         "musica": "Teu reino",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 2831,
-        "musica": "Domingo À Tarde - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 3498,
-        "musica": "Tudo Passará - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 5630,
-        "musica": "Para Ti Senhor Jesus - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 15565,
-        "musica": "Caprichoso - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 15627,
-        "musica": "Sonda-Me - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 58026,
-        "musica": "Se As Flores Pudessem Falar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 73930,
-        "musica": "Daria Tudo Prá Você Estar Aqui - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 73931,
-        "musica": "Deixa Me Se Estou Chorando - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 73932,
-        "musica": "Parabéns, Parabéns, Querida - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 73933,
-        "musica": "Saudade Do Primeiro Amor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 73934,
-        "musica": "Será, Será - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 74204,
-        "musica": "Medo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Nelson Ned",
-        "numero": 74205,
-        "musica": "Ninguém Irá Te Amar Mais Do Que Eu - Gospel",
         "genero": "Gospel"
     },
     {
@@ -6771,90 +6243,6 @@
         "cantor": "Nívea Soares",
         "numero": 53420,
         "musica": "Teu Amor Não Falha - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Novo Som",
-        "numero": 7737,
-        "musica": "Acredita - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Novo Som",
-        "numero": 7890,
-        "musica": "Voz Do Coração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Novo Som",
-        "numero": 75603,
-        "musica": "Escrevi - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Novo Som",
-        "numero": 75604,
-        "musica": "Meu Sonho - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 5523,
-        "musica": "Deus Eterno - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 5563,
-        "musica": "Pastor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 5574,
-        "musica": "Razão - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 5580,
-        "musica": "Resposta De Deus - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 5592,
-        "musica": "Valéria - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 5625,
-        "musica": "Naves Imperiais - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 7777,
-        "musica": "Espelhos Mágicos - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 7848,
-        "musica": "O Tempo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 7850,
-        "musica": "O Teu Amor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Oficina G3",
-        "numero": 67480,
-        "musica": "Te Escolhi - Gospel",
         "genero": "Gospel"
     },
     {
@@ -7062,123 +6450,9 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Pamela",
-        "numero": 7884,
-        "musica": "Um Verso De Amor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pamela",
-        "numero": 67509,
-        "musica": "Caminho Da Perfeição - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pamela",
-        "numero": 67510,
-        "musica": "De Joelhos Aqui - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pâmela",
-        "numero": 58290,
-        "musica": "Desde O Primeiro Momento - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Paula Stephânia",
         "numero": 77767,
         "musica": "Quadro Falado",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo Cesar Baruck",
-        "numero": 53551,
-        "musica": "Galhos Secos - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 2994,
-        "musica": "Reina Em Mim - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 7862,
-        "musica": "Quanto Amor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53552,
-        "musica": "Autor Da Minha Fé - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53553,
-        "musica": "Dependo De Ti - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53554,
-        "musica": "Ele Continua Sendo Bom - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53555,
-        "musica": "Espera Em Deus - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53556,
-        "musica": "Eu Corro Pra Ti - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53557,
-        "musica": "Jardim Da Inocência - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53558,
-        "musica": "Nele Você Pode Confiar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53559,
-        "musica": "Perdão - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53560,
-        "musica": "Seja Engrandecido - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53561,
-        "musica": "Senhor Do Tempo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 53562,
-        "musica": "É De Coração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo César Baruk",
-        "numero": 73285,
-        "musica": "Há Poder - Gospel",
         "genero": "Gospel"
     },
     {
@@ -7186,24 +6460,6 @@
         "numero": 77719,
         "musica": "Clamo Jesus",
         "genero": "gospel"
-    },
-    {
-        "cantor": "Paulo Neto",
-        "numero": 73286,
-        "musica": "Não Foi Por Acaso - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo Neto",
-        "numero": 73287,
-        "musica": "Tua Presença - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Paulo Neto",
-        "numero": 74496,
-        "musica": "Simplesmente Sobrenatural - Gospel",
-        "genero": "Gospel"
     },
     {
         "cantor": "Pe. Fábio De Mello",
@@ -7278,72 +6534,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Pg",
-        "numero": 2978,
-        "musica": "Eu Vou Passar Pela Cruz - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 2984,
-        "musica": "Meu Universo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 2992,
-        "musica": "Quem Sou Eu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 7858,
-        "musica": "Posso Ouvir - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 7864,
-        "musica": "Quero Ser Teu Amigo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 53592,
-        "musica": "Como A Brisa - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 53593,
-        "musica": "Eu Quero Estar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 53595,
-        "musica": "Junto As Águas - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 53596,
-        "musica": "Louvarei Na Tempestade - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 53600,
-        "musica": "Toda Lágrima - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Pg",
-        "numero": 53601,
-        "musica": "Verdadeiro Adorador - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "PG",
         "numero": 12027,
         "musica": "Meu universo",
@@ -7404,6 +6594,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "PRETO NO BRANCO",
+        "numero": 12003,
+        "musica": "Ninguém explica Deus",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Preto No Branco",
         "numero": 53625,
         "musica": "Ninguém Explica Deus - Gospel",
@@ -7434,12 +6630,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "PRETO NO BRANCO",
-        "numero": 12003,
-        "musica": "Ninguém explica Deus",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Preto No Branco - Gabriela Rocha",
         "numero": 16740,
         "musica": "Ninguem Explica Deus - Gospel",
@@ -7449,138 +6639,6 @@
         "cantor": "Priscila Alcantra E Preto No Branco",
         "numero": 72440,
         "musica": "Me Deixe Aqui - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53629,
-        "musica": "A Cruz - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53630,
-        "musica": "Além Do Véu",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53631,
-        "musica": "Até Sermos Um",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53632,
-        "musica": "Espírito Santo",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53633,
-        "musica": "Graça - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53634,
-        "musica": "Meu Primeiro Amor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53635,
-        "musica": "Quando O Sol Se Vai - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53636,
-        "musica": "Ressurgiu O Leão - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53637,
-        "musica": "Sou Escolhido - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 53638,
-        "musica": "Tudo É Teu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 67542,
-        "musica": "Inteiro - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 67543,
-        "musica": "Liberdade - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 67544,
-        "musica": "Me Refez - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcântara",
-        "numero": 67545,
-        "musica": "Tanto Faz - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Priscilla Alcantara - Whindersson Nunes",
-        "numero": 17094,
-        "musica": "Girassol - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 7756,
-        "musica": "Cinco Pães E Dois Peixinhos - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 7767,
-        "musica": "Diante De Ti - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 58295,
-        "musica": "Um Deus Tão Grande - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 58296,
-        "musica": "Um Milagre - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 72441,
-        "musica": "Vim Para Adorar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 74497,
-        "musica": "Amor De Mãe - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Quatro Por Um",
-        "numero": 75608,
-        "musica": "De Volta A Inocência - Gospel",
         "genero": "Gospel"
     },
     {
@@ -7608,99 +6666,9 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Raul Seixas",
-        "numero": 17175,
-        "musica": "Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Rayssa E Ravel",
-        "numero": 2985,
-        "musica": "Nascer De Novo - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Rebecca St. James",
         "numero": 70885,
         "musica": "Reborn",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 1131,
-        "musica": "Faz Um Milagre Em Mim - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 1773,
-        "musica": "Meu Deus É Forte - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 2723,
-        "musica": "Família - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 2754,
-        "musica": "Ressuscita O Meu Sonho - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 2950,
-        "musica": "Compromisso - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 2959,
-        "musica": "Te Adorar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 2966,
-        "musica": "Aliança - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 53708,
-        "musica": "Eu Quero Te Agradecer - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 53711,
-        "musica": "O Meu Deus É Forte - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 53712,
-        "musica": "Profetizo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 53714,
-        "musica": "Tu Podes - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Regis Danese",
-        "numero": 53715,
-        "musica": "Tuas Primícias - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Régis Danese",
-        "numero": 58716,
-        "musica": "O Melhor Que Eu Tenho - Gospel",
         "genero": "Gospel"
     },
     {
@@ -7818,6 +6786,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "RENASCER PRAISE",
+        "numero": 12017,
+        "musica": "Jesus, o plano perfeito",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Renascer Praise",
         "numero": 53718,
         "musica": "1000 Graus - Gospel",
@@ -7854,24 +6828,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "RENASCER PRAISE",
-        "numero": 12017,
-        "musica": "Jesus, o plano perfeito",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Robinson Monteiro",
-        "numero": 6307,
-        "musica": "Pra Sempre Eu Vou Te Amar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Robinson Monteiro",
-        "numero": 58659,
-        "musica": "Se Tu Quiseres Crer - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Robinson Monteiro",
         "numero": 77566,
         "musica": "E Preciso Acreditar",
@@ -7882,48 +6838,6 @@
         "numero": 77567,
         "musica": "Viver É Ter Você Pra Mim",
         "genero": "gospel"
-    },
-    {
-        "cantor": "Rodolfo Abrantes",
-        "numero": 72455,
-        "musica": "Isaías 9 - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Ronaldo Bezerra",
-        "numero": 2999,
-        "musica": "Tu És Santo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Rosa De Saron",
-        "numero": 15676,
-        "musica": "Sem Você - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Rosa De Saron",
-        "numero": 15729,
-        "musica": "Cartas Ao Remetente - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Rosa De Saron",
-        "numero": 53927,
-        "musica": "Como Eu Te Vejo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Rosa De Saron",
-        "numero": 53928,
-        "musica": "Longe Demais - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Rosa De Saron",
-        "numero": 53929,
-        "musica": "O Sol Da Meia Noite - Gospel",
-        "genero": "Gospel"
     },
     {
         "cantor": "Rose Nascimento",
@@ -8058,18 +6972,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Sandy Leah",
-        "numero": 53991,
-        "musica": "Morada - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sandy Leah",
-        "numero": 58746,
-        "musica": "Pés Cansados - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Santa Geração",
         "numero": 7856,
         "musica": "Poderoso Deus - Gospel",
@@ -8080,162 +6982,6 @@
         "numero": 7879,
         "musica": "Teu Fluir É Melhor - Gospel",
         "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 4624,
-        "musica": "Evil Ways - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 5956,
-        "musica": "Oye Como Va - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 6010,
-        "musica": "Corazon Espinado - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 9055,
-        "musica": "Smooth - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 64316,
-        "musica": "Evil Ways - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 64317,
-        "musica": "Oye Como Va - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 64318,
-        "musica": "Winning - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 71062,
-        "musica": "Maria Maria - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 72509,
-        "musica": "Africa Bamba - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 97598,
-        "musica": "Smooth - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 97599,
-        "musica": "Put Your Lights On - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana",
-        "numero": 98239,
-        "musica": "Black Magic Woman - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana E Maná",
-        "numero": 73081,
-        "musica": "Corazón Espinado + Back Vocal - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana E Rob Thomas",
-        "numero": 64315,
-        "musica": "Smooth - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana-Michelle Branch",
-        "numero": 9179,
-        "musica": "The Game Of Love - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santana-The Product Geb",
-        "numero": 4939,
-        "musica": "Maria Maria - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Santa'S Elves",
-        "numero": 71061,
-        "musica": "Jolly Old St. Nicholas (Sing And Spell Christmas)",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Beatriz",
-        "numero": 67680,
-        "musica": "Basta Acreditar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Beatriz",
-        "numero": 67681,
-        "musica": "O Maior Vilão Sou Eu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Beatriz",
-        "numero": 76628,
-        "musica": "Todavia Me Alegrarei - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Farias",
-        "numero": 72510,
-        "musica": "Renovo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Farias",
-        "numero": 73208,
-        "musica": "Deixa Eu Te Usar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Farias",
-        "numero": 74500,
-        "musica": "Deus De Futuro - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Farias",
-        "numero": 76311,
-        "musica": "Sobrevivi - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Farias",
-        "numero": 76312,
-        "musica": "Só Quem Tem Raiz - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Sarah Farias",
-        "numero": 77724,
-        "musica": "Se Eu Não Te Ouvir",
-        "genero": "gospel"
     },
     {
         "cantor": "SARAH FARIAS",
@@ -8250,15 +6996,21 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Sergio Saas",
-        "numero": 73296,
-        "musica": "Vencedor - Gospel",
+        "cantor": "Sarah Farias",
+        "numero": 77724,
+        "musica": "Se Eu Não Te Ouvir",
+        "genero": "gospel"
+    },
+    {
+        "cantor": "Sérgio Silva",
+        "numero": 77521,
+        "musica": "Sei Que É Difícil",
         "genero": "Gospel"
     },
     {
-        "cantor": "Sérgio Saas",
-        "numero": 73298,
-        "musica": "O Cordeiro - Gospel",
+        "cantor": "SHIRLEY CARVALHAES",
+        "numero": 12020,
+        "musica": "Esse adorador",
         "genero": "Gospel"
     },
     {
@@ -8286,12 +7038,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "SHIRLEY CARVALHAES",
-        "numero": 12020,
-        "musica": "Esse adorador",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "Sinach",
         "numero": 72614,
         "musica": "Way Maker En Español",
@@ -8307,66 +7053,6 @@
         "cantor": "Sisters Act 2",
         "numero": 97474,
         "musica": "Happy Day",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 7759,
-        "musica": "Conheci Um Grande Amigo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 7770,
-        "musica": "Digno De Glória - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 54056,
-        "musica": "Cadeias Quebrar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 54057,
-        "musica": "Marcas - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 54058,
-        "musica": "Quão Grande É O Meu Deus - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 54059,
-        "musica": "Sobre As Águas - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 54060,
-        "musica": "Som Da Chuva - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 54061,
-        "musica": "Ultima Chance - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 72514,
-        "musica": "Caminho No Deserto - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Soraya Moraes",
-        "numero": 73297,
-        "musica": "Grande Eu Sou - Gospel",
         "genero": "Gospel"
     },
     {
@@ -8397,30 +7083,6 @@
         "cantor": "Steve Green",
         "numero": 71211,
         "musica": "God And God Alone",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Thaeme Marioto",
-        "numero": 15583,
-        "musica": "O Brilho Dessa Estrela - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Thaiane Seghetto",
-        "numero": 67742,
-        "musica": "Meu Amado",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Thaiane Seghetto E Pregador Luo",
-        "numero": 67743,
-        "musica": "Me Perdoa Pai",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Thaiane Seguetto",
-        "numero": 67744,
-        "musica": "Nova Chance",
         "genero": "Gospel"
     },
     {
@@ -8470,12 +7132,6 @@
         "numero": 15836,
         "musica": "Quero Sua Vida Em Mim - Gospel",
         "genero": "Gospel"
-    },
-    {
-        "cantor": "Thamires Garcia",
-        "numero": 77422,
-        "musica": "O Senhor E Não Os Ídolos",
-        "genero": "Pop cristão, Gospel"
     },
     {
         "cantor": "The Cathedrals",
@@ -8652,6 +7308,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "TOQUE NO ALTAR",
+        "numero": 12026,
+        "musica": "Bendito serás",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Toque No Altar",
         "numero": 54376,
         "musica": "Deus De Promessas - Gospel",
@@ -8667,12 +7329,6 @@
         "cantor": "Toque No Altar",
         "numero": 54380,
         "musica": "Perto Quero Estar - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "TOQUE NO ALTAR",
-        "numero": 12026,
-        "musica": "Bendito serás",
         "genero": "Gospel"
     },
     {
@@ -8802,66 +7458,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "Valdecir Aguiar",
-        "numero": 1803,
-        "musica": "Amigos Pra Sempre - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valdecir Aguiar",
-        "numero": 5514,
-        "musica": "Canção Do Aflito - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valdecir Aguiar",
-        "numero": 5551,
-        "musica": "Me Deste Amor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valdecir Aguiar",
-        "numero": 5591,
-        "musica": "Vai Dar Tudo Certo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valdecir Aguiar",
-        "numero": 5594,
-        "musica": "Vencedor - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valdecir Aguiar",
-        "numero": 5599,
-        "musica": "Vitória Do Povo De Deus - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valdecir Aguiar",
-        "numero": 5601,
-        "musica": "Volta Por Cima - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valesca Mayssa",
-        "numero": 73313,
-        "musica": "Espírito Santo - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valesca Mayssa",
-        "numero": 73314,
-        "musica": "Árvore Cortada - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Valesca Mayssa",
-        "numero": 76321,
-        "musica": "Eu Sou Teu Pai - Gospel",
-        "genero": "Gospel"
-    },
-    {
         "cantor": "VALESCA MAYSSA E STELLA",
         "numero": 12134,
         "musica": "DIAS DE GUERRA",
@@ -8907,6 +7503,12 @@
         "cantor": "Vineyard",
         "numero": 74617,
         "musica": "Vem Esta É A Hora - Gospel",
+        "genero": "Gospel"
+    },
+    {
+        "cantor": "VOZ DA VERDADE",
+        "numero": 13283,
+        "musica": "Escudo",
         "genero": "Gospel"
     },
     {
@@ -9081,54 +7683,6 @@
         "cantor": "West Ebd",
         "numero": 97879,
         "musica": "The Love I Lost",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "William Nascimento",
-        "numero": 54608,
-        "musica": "Avivamento Já - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "William Nascimento",
-        "numero": 54609,
-        "musica": "Deus Vai Na Frente - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "William Nascimento",
-        "numero": 54610,
-        "musica": "Era Você - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "William Nascimento",
-        "numero": 54611,
-        "musica": "Lugar Mais Alto - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "William Nascimento",
-        "numero": 54612,
-        "musica": "No Centro Do Teu Coração - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "William Nascimento",
-        "numero": 54613,
-        "musica": "Você Não Perdeu - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Willian Nascimento",
-        "numero": 59259,
-        "musica": "Deus Vai Na Frente - Gospel",
-        "genero": "Gospel"
-    },
-    {
-        "cantor": "Willian Nascimento",
-        "numero": 59260,
-        "musica": "Pelo Telhado - Gospel",
         "genero": "Gospel"
     }
 ]

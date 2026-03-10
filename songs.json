@@ -1,9 +1,33 @@
 [
     {
+        "cantor": "Get Worship",
+        "numero": 5073,
+        "musica": "Um Novo Dia",
+        "genero": "GOSPEL"
+    },
+    {
         "cantor": "Gospel",
         "numero": 59463,
         "musica": "Only You",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Karaokê Acústico",
+        "numero": 5071,
+        "musica": "João 20",
+        "genero": "GOSPEL"
+    },
+    {
+        "cantor": "Nair Nany",
+        "numero": 5068,
+        "musica": "Eu Vou Orar",
+        "genero": "GOSPEL"
+    },
+    {
+        "cantor": "Sara Evelyn",
+        "numero": 5067,
+        "musica": "Era Deus e Eu",
+        "genero": "GOSPEL"
     },
     {
         "cantor": "4Him",
@@ -178,6 +202,12 @@
         "numero": 12085,
         "musica": "Soube Que Me Amava",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Aline Barros",
+        "numero": 5064,
+        "musica": "Louvor ao Rei",
+        "genero": "GOSPEL"
     },
     {
         "cantor": "Aline Barros  Gospel",
@@ -2346,6 +2376,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Coral Canto Jovem e Rayssa Andreoli",
+        "numero": 5070,
+        "musica": "Imperfeito",
+        "genero": "GOSPEL"
+    },
+    {
         "cantor": "Coral Kemuel",
         "numero": 51195,
         "musica": "Faça Morada - Gospel",
@@ -3024,6 +3060,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "DIMAS",
+        "numero": 5066,
+        "musica": "O LADRÃO - Jottapê",
+        "genero": "GOSPEL"
+    },
+    {
         "cantor": "Discopraise",
         "numero": 77491,
         "musica": "Bem Querer",
@@ -3382,6 +3424,12 @@
         "numero": 77496,
         "musica": "Tudo É Perda",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Felipe Rodrigues",
+        "numero": 5069,
+        "musica": "GRATIDÃO",
+        "genero": "GOSPEL"
     },
     {
         "cantor": "Fernadinho",
@@ -3946,6 +3994,12 @@
         "numero": 72287,
         "musica": "Só Pra Te Ouvir",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Gabriel Guedes, Fernandinho",
+        "numero": 5072,
+        "musica": "Santo Pra Sempre",
+        "genero": "GOSPEL"
     },
     {
         "cantor": "Gabriel Rocha",
@@ -4908,6 +4962,12 @@
         "genero": "Gospel"
     },
     {
+        "cantor": "Jefferson e Suellen",
+        "numero": 5063,
+        "musica": "ACENDE OUTRA VEZ",
+        "genero": "GOSPEL"
+    },
+    {
         "cantor": "Jenifer Daiane",
         "numero": 67006,
         "musica": "Espírito Santo",
@@ -5212,6 +5272,12 @@
         "numero": 77507,
         "musica": "Deus De Obras Completas",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Kemilly Santos",
+        "numero": 5065,
+        "musica": "Deus de Obras Completas, Eu vou viver a totalidade da promessa",
+        "genero": "GOSPEL"
     },
     {
         "cantor": "Kemuel Lukas Agustinho",
@@ -5791,14 +5857,14 @@
     },
     {
         "cantor": "Maria Marçal",
-        "numero": 77821,
-        "musica": "Não Tem Como Dar Errado",
+        "numero": 77515,
+        "musica": "Deixa",
         "genero": "Gospel"
     },
     {
         "cantor": "Maria Marçal",
-        "numero": 77515,
-        "musica": "Deixa",
+        "numero": 77821,
+        "musica": "Não Tem Como Dar Errado",
         "genero": "Gospel"
     },
     {
